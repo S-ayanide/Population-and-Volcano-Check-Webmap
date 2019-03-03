@@ -4,7 +4,7 @@ This project shows a general layered map which shows the population of different
 This project will show you all the places in the USA which are prone to volcano with elevation level marked with different colors, users can also see the different population rates in different countries.
 It is a layer controlled map and any layer can be toggeled on/off on choice.
 
-![Layered Map](D:\Projects\Python\Map\img\geoc.png)
+![Layered Map](img/geoc.png)
 
 ## Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pandas and folium.
