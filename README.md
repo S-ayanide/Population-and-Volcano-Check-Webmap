@@ -22,16 +22,16 @@ pip install folium
 ```
 ## Adding the .txt file
 You add the .txt file using pandas
-*import pandas first
-*add the csv file
+* import pandas first
+* add the csv file
 ```python
 import pandas
 points=pandas.read_csv("scripts/filename.txt") #where points is any variable name
 ```
 ## Adding the .json file
 You add the .json file using folium as we need to access its **GeoJson**
-*import folium
-*adding the json file which contains the geocodes
+* import folium
+* adding the json file which contains the geocodes
 ```python
 import folium
 folium.GeoJson(data=open("scripts/world.json",'r',encoding="utf-8-sig").read()
