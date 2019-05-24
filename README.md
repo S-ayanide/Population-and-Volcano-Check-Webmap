@@ -34,8 +34,11 @@ You add the .json file using folium as we need to access its **GeoJson**
 import folium
 folium.GeoJson(data=open("scripts/world.json",'r',encoding="utf-8-sig").read()
 ```
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Pull Request
 
-Please make sure to update tests as appropriate.
+Pull Requests are welcome. Please follow these rules for the ease of understanding:
+* Make sure to check for available issues before raising one
+* Give me a maximum of 24-48 hours to respond
+* Have proper documentation on the parts you are changing/adding
 
+#### Feel free to contribute
