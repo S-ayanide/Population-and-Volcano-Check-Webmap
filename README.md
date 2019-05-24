@@ -1,5 +1,6 @@
 # Population-and-Volcano-Check-Webmap
 [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/Population-and-Volcano-Check-Webmap.svg)](https://github.com/S-ayanide/Population-and-Volcano-Check-Webmap/issues) [![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Population-and-Volcano-Check-Webmap.svg?style=flat-square)](https://github.com/S-ayanide/Population-and-Volcano-Check-Webmap/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Population-and-Volcano-Check-Webmap.svg?style=flat-square)](https://github.com/S-ayanide/Population-and-Volcano-Check-Webmap/stargazers) [![GitHub license](https://img.shields.io/github/license/S-ayanide/Population-and-Volcano-Check-Webmap.svg?style=for-the-badge)](https://github.com/S-ayanide/Population-and-Volcano-Check-Webmap) 
+
 This project shows a general layered map which shows the population of different countries as well as the volcanic mountains in the USA sorted by their elevation
 ## What Can it Do ?
 This project will show you all the places in the USA which are prone to volcano with elevation level marked with different colors, users can also see the different population rates in different countries.
@@ -43,3 +44,9 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 * Have proper documentation on the parts you are changing/adding
 
 #### Feel free to contribute
+
+
+## Developed & Maintained by
+[Sayan Mondal](https://github.com/S-ayanide) 
+[📷 Insta](https://www.instagram.com/s_ayanide/)
+[🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/Population-and-Volcano-Check-Webmap.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FPopulation-and-Volcano-Check-Webmap)
